@@ -1,0 +1,94 @@
+body {
+    background-color: #FFCD9E;
+    font-family: 'Inter', sans-serif;
+    padding: 0;
+    margin: 0;
+}
+
+h1{
+    font-weight: 700;
+    font-size: 36px;
+}
+
+h2 {
+    font-weight: 500;
+    font-size: 20px;
+    color: #484848;
+    line-height: 32px;
+}
+
+h3{
+    font-weight: 800;
+    font-size: 20px;
+    line-height: 32px;
+    padding: 1rem 0 1rem 0;
+}
+
+h4{
+    color: white;
+    font-weight: 500;
+    font-size: 16px;
+}
+
+input{
+    padding-left: 2%;
+    border: 4px solid black;
+    border-radius: 8px;
+    height: 56px;
+    width: 344px;
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 1rem;
+    margin-right: 1rem;
+}
+
+button{
+    height: 64px;
+    width: 216px;
+    font-weight: 700;
+    font-size: 20px;
+    background-color: black;
+    color: aliceblue;
+    border-radius: 8px;
+}
+
+.flex{
+    display: flex;
+    flex-direction: row;
+}
+
+.flex1{
+    width: 40vw;
+    padding: 5vw 0 0 10vw;
+}
+.flex2{
+    padding: 2vw 0 0 5vw;
+}
+
+.fotter{
+    background-color: black;
+    display: flex;
+    flex-direction: row;
+    padding: 1% ;
+    justify-content: space-between;
+}
+
+.fotter-f1{
+    padding-left: 10%;
+}
+.fotter-f2{
+    padding-right: 10%;
+
+}
+
+li{
+    list-style-type: none;
+    font-weight: 400;
+    font-size: 20px;
+    color: aliceblue;
+    padding: 5px;
+}
+
+.ass{
+    padding-left: 60%;
+}
