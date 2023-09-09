@@ -58,7 +58,7 @@ button{
 }
 
 .flex1{
-    width: 40vw;
+    width: 40%;
     padding: 5vw 0 0 10vw;
 }
 .flex2{
@@ -74,21 +74,31 @@ button{
 }
 
 .fotter-f1{
-    padding-left: 10%;
+    padding-top: 3%;
+    padding-left: 15%;
 }
 .fotter-f2{
-    padding-right: 10%;
+    padding-top: 3%;
+    padding-right: 15%;
+    text-align: right;
 
 }
 
-li{
-    list-style-type: none;
+.links{
+    color: aliceblue;
+    display: block;
+    text-decoration: none;
     font-weight: 400;
     font-size: 20px;
+    padding-bottom: 0.5em;
+}
+.links2{
     color: aliceblue;
-    padding: 5px;
+    display: block;
+    text-decoration: none;
+    font-weight: 400;
+    font-size: 20px;
+    padding-bottom: 0.5em;
 }
 
-.ass{
-    padding-left: 60%;
-}
+
